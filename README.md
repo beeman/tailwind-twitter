@@ -1,4 +1,7 @@
-# TailwindTwitter
+# Basic Twitter UI Clone built with Tailwind 
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/36491/101999785-7df33900-3cae-11eb-8eae-f12ee24dabf0.png">
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
